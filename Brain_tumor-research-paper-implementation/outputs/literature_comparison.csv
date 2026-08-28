@@ -1,0 +1,15 @@
+Authors,Year,Method,XAI,Accuracy
+Remzan et al. [41],2024,SVM,No,98.67
+Albalawi et al. [42],2024,Modified VGG16,No,98.0
+Haque et al. [13],2024,NeuroNet19,LIME,99.3
+Islam et al. [43],2024,CNN,No,98.82
+Khushi et al. [44],2024,AlexNet,No,98.79
+Ahmed et al. [45],2023,VGG16,LRP,97.33
+Islam et al. [46],2023,CNN,No,98.5
+Garg et al. [47],2023,CNN,No,98.66
+Gomez et al. [48],2023,InceptionV3,No,97.12
+Shah et al. [49],2023,DenseNet121,No,97.86
+Cinar et al. [50],2022,ResNet101,No,98.6
+Naseer et al. [51],2021,CNN,No,98.8
+Paper (Binary CNN),2024,Custom CNN,SHAP+LIME+GradCAM,100.0
+Our Model (Binary CNN),2024,Custom CNN (Binary),SHAP+LIME+GradCAM,66.67
